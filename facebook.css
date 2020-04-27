@@ -1,0 +1,222 @@
+
+    body{
+        background-color: white;
+        margin-left:0px;
+        margin-right:0px;
+    }
+
+    .logo{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left:10px;
+        margin-right: 10px;
+        margin-bottom:10px;
+    }
+
+    .facebook_logo{
+        width: 90px;
+        height: 35px;
+    }
+
+    .magnifier_logo{
+        margin-right: 0px;
+    }
+
+    .story{
+        display: flex;
+        justify-content: flex-start;
+        margin-left:4px;
+    }
+
+    .story1{
+        width:94px;
+        height:160px;
+    }
+
+    .story2{
+        height:160px;
+    }
+    
+    .gray{
+        background-color: gray;
+        width:375px;
+        height:10px;
+    }
+
+    .thinking{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .thinking2{
+        border-top: solid 1px lightgray;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 5px;
+        padding-left: 40px;
+        padding-right: 30px;
+    }
+
+    .one{
+        width:30px;
+        height:30px;
+    }
+
+    .two{
+        width:30px;
+        height:30px;
+    }
+
+    .three{
+        width:30px;
+        height:30px;
+    }
+
+    .youthinking{
+        display: flex;
+        justify-content:flex-start;
+        align-items: center;
+        flex-direction: row;
+        height: 100px;
+        margin-left:10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .material-icons{
+        width:200px;
+        height:20px;
+    }
+
+    .mythinking{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .mythinking div{
+        display: flex;
+        align-items: center;
+        width:100px;
+    }
+
+    .mythinking p{
+        margin : 0px;
+    }
+
+    .profile_pic{
+        border : solid 1px lightgray;
+        border-radius: 100px;
+        margin-left:5px;
+        width:50px;
+        height:50px;
+    }
+
+    .profile_explain{
+        display: flex;
+        flex-direction: column;
+        margin-top:5px;
+        margin-left:5px;
+    }
+
+    .profile{
+        display: flex;
+        justify-content: flex-start;
+        margin-top:10px;
+        margin-left: 10px;
+        align-items: flex-start;
+    }
+
+    .wording{
+        margin-left:20px;
+        margin-bottom: 10px;
+    }
+
+
+
+
+    .big_pic{
+      height : 120px;
+      background-image : url("https://img4.yna.co.kr/photo/cms/2019/05/02/02/PCM20190502000402370_P2.jpg");
+      background-size : cover;
+      margin-left:10px;
+    }
+    
+    
+    .small_pic{
+      background-color : pink;
+      height : 120px;
+      display : flex;
+      justify-content : space-between;
+    }
+    
+    .pics{
+      background-image : url("https://img4.yna.co.kr/photo/cms/2019/05/02/02/PCM20190502000402370_P2.jpg");
+      background-size : cover;
+      height : 100px;
+      width : 100px;
+    }
+
+    .numberof_like{
+        display: flex;
+    }
+
+    .pictogram_of_like{
+        display: flex;
+    }
+
+
+
+
+
+    .pictogram_of_like{
+        height : 50px;
+        display : flex;
+        justify-content : space-between;
+        align-items : center;
+      }
+      
+      .pictogram_of_like > div{
+        justify-content : space-between;
+        align-items : center;
+        display : flex;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
